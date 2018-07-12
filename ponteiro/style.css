@@ -1,0 +1,13 @@
+#canvas{
+    width: 600px;
+    height: 600px;
+    border: solid;
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+    position:absolute;
+    
+    left:50%;
+     
+    margin-left:-350px;
+    
+}
